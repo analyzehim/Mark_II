@@ -1,2 +1,1 @@
-# Mark_II
-@l4rs2_bot
+This is my telegram bot. Cute and cozy.
